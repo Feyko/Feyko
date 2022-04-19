@@ -31,7 +31,7 @@ Currently looking for a job. Happy to chat about opportunities!
 <a href="https://linux.org"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=5%></img></a>
 
 ---
-### My Stats 📈
+### 📈 My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Feyko&theme=omni&date_format=j%20M%5B%20Y%5D&hide_border=true)](https://git.io/streak-stats)
 [![Contribution stats](https://github-readme-stats.vercel.app/api?username=feyko&show_icons=true&count_private=true&theme=omni&include_all_commits=true&hide_border=true&hide_title=true&hide_rank=true&line_height=30)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feyko&layout=compact&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
